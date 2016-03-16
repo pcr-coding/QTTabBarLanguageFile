@@ -1,0 +1,1821 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<root>
+<FormatVersion>2</FormatVersion>
+  
+<!--##############################################################
+
+    Localization file for QTTabBar ver 1036 ( 2015-12-03 )
+
+                * {0} is used as a placeholder
+                * [[|]] is used to represent singular/plural expressions.
+                  ex. ind[[ex|ices]], folder[[|s]]
+                * Empty or missing lines will be filled by QTTabBar with default English resources.
+                * This file is not compatible with QTTabBars earlier than ver 128.
+
+    ##############################################################-->
+
+<!--Indicates the target version of QTTabBar-->
+<Version>1036</Version>
+
+<!--META DATA-->
+<Author>Peh</Author>
+<Revision>15</Revision>
+<Locale>de-DE</Locale>
+<Contact>https://github.com/pcr-coding/QTTabBarLanguageFile</Contact>
+<DateModified>2016-03-16 11:49:31</DateModified>
+<EditorVersion>1.0.0.5</EditorVersion>
+
+<!--DATA START-->
+<ButtonBarButtons>
+Trennzeichen 
+Zurück
+Vorwärts
+Gruppen
+Letzte Tabs
+Anwendungen
+Neues Fenster
+Aktiven Tab Duplizieren
+Sperren
+Kopieren
+Immer im Vordergrund
+Tab schließen
+Alle schließen, außer den aktuellen Tab
+Fenster schließen
+Linke Tabs schließen
+Rechte Tabs schließen
+Eine Ebene hoch
+Aktualisieren
+Suchen
+Optionen
+Letzte Dateien
+Deckkraft
+Medienvorschau deaktivieren
+Filterbox
+</ButtonBarButtons>
+
+
+<ButtonBarMenu>
+&amp;Anpassen …
+&amp;Menüs sperren
+Pfad
+Name
+Aktueller Ordnerpfad
+Aktueller Ordnername
+MD5-Prüfsumme
+Pfade aller Tabs
+Aktueller Ordner
+(Mehrere Elemente)
+Arbeitsordner
+Bild anhalten
+Film &amp; Musik anhalten
+Text anhalten
+Keine Unterelemente
+</ButtonBarMenu>
+
+
+<ButtonBarTooltip>
+Zurück zu {0} (Alt + Pfeiltaste nach links)
+Vorwärts zu {0} (Alt + Pfeiltaste nach rechts)
+Letzte Seiten
+Gruppen die Verknüpfungen zu Ordnern enthalten.
+Ordner, auf die zuletzt zugegriffen wurden.
+Verknüpfungen zu Anwendungen.
+Öffnet den aktiven Tab im neuen Fenster.
+Dupliziert den aktiven Tab und fügt ihn zur Tableiste hinzu.
+Sperrt den aktiven Tab und schützt ihn vor dem Schließen.
+Menüs um Dateinamen zu kopieren, usw …
+Setzt dieses Fenster immer in den Vordergrund.
+Schließt den aktiven Tab.
+Schließt alle Tabs, außer den aktiven Tab.
+Schließt dieses Fenster.
+Schließt die Tabs links neben dem aktiven Tab.
+Schließt die Tabs rechts neben dem aktiven Tab.
+Eine Ordnerebene höher gehen.
+Aktualisiert die Ordneransicht.
+Öffnet den Suchordner im neuen Tab.
+Öffnet die Einstellungen für QTTabBar.
+Verknüpfungen zu Dateien, auf die zuletzt zugegriffen wurden.
+Verändert die Transparenz dieses Fensters.
+Aktiviert oder deaktiviert die Film-, Musik- und Bildvorschau. 
+Filtert die aktuelle Ansicht aufgrund von Sucheingaben.
+Kopiert den Pfad der aktuellen Auswahl in die Zwischenablage.
+Kopiert die Bezeichnungen der aktuellen Auswahl in die Zwischenablage.
+Kopiert den aktuellen Ordnerpfad in die Zwischenablage.
+Kopiert den aktuellen Ordnernamen in die Zwischenablage.
+Berechnet die Prüfsumme der ausgewählten Dateien und zeigt sie an.
+Kopiert die Pfade aller Tabs in die Zwischenablage.
+Öffnet das Einstellungsfenster für die Symbolleiste, um Schaltflächen hinzuzufügen.
+Aktiviert oder deaktiviert die Möglichkeit, Einträge im Gruppen- oder Anwendungsmenü neu zu ordnen.
+Hält die Vorschau von Bildern an.
+Hält die Vorschau von Filmen und Musik an.
+Hält die Vorschau von Texten an.
+Ziehen Sie Schaltflächen in diesen Ordner um diese Unterelementen hinzuzufügen.
+</ButtonBarTooltip>
+
+
+<CommandBarDragDrop>
+Erstellen Sie hier eine Schaltfläche
+Schaltfläche hier her Verschieben
+Schaltfläche hier her Kopieren
+Diese Symbolleiste ist gesperrt.
+Schaltfläche verschieben und untergeordnete Schaltfläche erstellen
+Schaltfläche kopieren und untergeordnete Schaltfläche erstellen
+Warte auf Menü
+</CommandBarDragDrop>
+
+
+<CommandBarDialog>
+{0} wird der Befehlsleiste hinzugefügt.\r\nSind Sie sicher, dass Sie fortfahren möchten? 
+</CommandBarDialog>
+
+
+<CommandBarEditor>
+Befehl Bearbeiten
+Neuer Befehl
+Allgemein
+Untergeordnete Elemente
+Befehlsart:
+Schaltflächenart:
+Symbolpfad:
+Tastenkombination:
+Beschriftung anzeigen
+Symbol anzeigen
+Optionen
+Befehl
+Befehl
+Argumente
+Datei-Befehlsoptionen
+Details
+Pfad
+Argumente
+Arbeitsverzeichnis
+Verb
+Aktion
+Netzwerkzeitüberschreitung (in ms)
+Netzwerk-Adressauflösung überspringen
+Datei ablegen auf diesem Element erlauben
+Dateien in diesem Ordner erweitern anstatt in untergeordnete Elemente
+Gruppenname
+Aktion
+Gruppeneinträge in diesem Ordner erweitern anstatt in untergeordnete Elemente
+Neues Element
+An linker/oberer Ecke fixieren
+Zugeordnete Ansicht:
+Nicht angegeben
+Standard
+Zusätzliche Ansicht (unten)
+Zusätzliche Ansicht (links)
+Gruppe zum hinzufügen wählen.
+Fenstergröße:
+Skripte
+Wenn dieser Befehl eine Skriptdatei ausführt, kann QTTabBar warten, bist der Skriptprozess beendet ist und seinen Wert zurückgeben.
+Warte bis der Skriptprozesses beendet ist
+Timeout (in ms)
+Untermenü:
+Kein Untermenü
+Erweitern
+</CommandBarEditor>
+
+
+<CommandBarFileAction>
+Standard
+Neuer Tab
+Neuer Tab im Hintergrund
+In diesem Tab
+Neues Fenster
+In Shell ausführen
+</CommandBarFileAction>
+
+
+<CommandBarGroupAction>
+Standard
+Hintergrund
+Neues Fenster
+Ersetzen
+</CommandBarGroupAction>
+
+
+<CommandBarSubType>
+Schaltfläche
+Dropdown Schaltfläche
+Geteilte Schaltfläche
+</CommandBarSubType>
+
+
+<CommandBarType>
+Einfacher Befehl
+Erweiterter Befehl
+Datei &amp; Ordner
+Gruppe
+Erweiterung
+</CommandBarType>
+
+
+<CommandBarWindowSize>
+Normales Fenster
+Maximiert
+Minimiert
+Ausblenden
+</CommandBarWindowSize>
+
+
+<CommandTokens>
+Wert des Unterbefehls zurückgeben
+Wert des Unterbefehls {0} zurückgeben
+Wert des verwandten Befehls zurückgeben
+Wert des verwandten Befehls {0} zurückgeben
+Wert im Datenslot {0}
+Einen Textausdruck der Ereignisdaten
+Schlüsselwert um Ereignisdaten zu erhalten
+Negieren eines nachfolgenden booleschen Wertes
+</CommandTokens>
+
+
+<DefaultFont>
+Segoe UI
+9
+</DefaultFont>
+
+
+<DesktopTool>
+Menü in der Taskleiste aktivieren
+Menü auf dem Desktop aktivieren
+Elemente sperren
+Hintergrund für Titel verwenden
+Menü durch Einzelklick auf die Symbolleiste zeigen
+Tastenkombination für Anwendungen aktivieren
+Menü-Deckkraft
+Gruppen
+Letzte Tabs
+Anwendungen
+Letzte Dateien
+Elemente auf Desktop
+Zeige Menü bei Einzelklick (linke Maustaste) auf dem Desktop
+Zeige Menü bei Einzelklick (mittlere Maustaste) auf dem Desktop
+Menüeinträge
+Verhalten des Menüs
+Zeige Menü bei Doppelklick (linke Maustaste) auf dem Desktop
+</DesktopTool>
+
+
+<Dialog>
+Dieses Dialogfenster nicht mehr anzeigen
+Suche nach {0} …
+Aktuellen Ordner umbenennen
+</Dialog>
+
+
+<DialogAppLauncher>
+Sind Sie sicher, dass Sie &quot;{0}&quot; entfernen möchten?
+Anwendung entfernen
+</DialogAppLauncher>
+
+
+<DialogButtons>
+&amp;OK
+&amp;Abbrechen
+An&amp;wenden
+&amp;Standard
+&amp;Ja
+&amp;Nein
+Erneut ve&amp;rsuchen
+S&amp;chließen
+Lös&amp;chen
+Aktualisie&amp;ren
+&amp;Stopp
+&amp;Diagnose
+Nach &amp;oben
+Nach &amp;unten
+Ersetzen
+&amp;Rückgängig
+Bearbeiten
+&amp;Kopieren
+</DialogButtons>
+
+
+<DialogCopyMove>
+Kopieren: 
+Verschieben: 
+Verknüpfungen erstellen: 
+Keine Tabs als Ziel gefunden.
+Dateien und Ordner auswählen, um sie nach &apos;{0}&apos; zu kopieren
+Dateien und Ordner auswählen, um sie nach &apos;{0}&apos; zu verschieben
+Dateien und Ordner auswählen, um Verknüpfungen in &apos;{0}&apos; zu erstellen
+Alle Ziele auswählen
+Zielordner
+Ausführen
+Ansicht - klein
+Ansicht - groß
+Ordnerstruktur zu Tab kopieren:
+</DialogCopyMove>
+
+
+<DialogError>
+Fehler
+QTTabBar konnte\r\n&quot;{0}&quot;\r\nnicht öffnen.\r\n\r\n
+Ziel von {0} wurde nicht gefunden.
+{0} wurde nicht gefunden.
+Unbekannter Gruppenname:
+Gruppen mit ungültigen Einträgen gefunden:
+Die folgenden Gruppen sind leer oder enthalten keine gültigen Einträge:
+Die folgenden Gruppendateien sind leer oder enthalten keine gültigen Gruppennamen:
+Leere Datei.
+IO Fehler.
+Nicht autorisierter Zugriff.
+Bitte stellen Sie sicher, dass QTTabBar aktiviert ist.
+Dieses Dialogfenster für diesen Fehler nicht wieder anzeigen
+Ungültige Bilddatei.\r\n\r\nBitte wählen Sie eine Datei mit 432 × 40 oder 480 × 40 Pixeln.
+Das Anwendungsmenü enthält Argumente oder ein Arbeitsverzeichnis, das Schlüsselwörter enthält, die QTTabBar nicht ersetzen konnte.
+Es dauerte {0} Sekunden, um die Schaltflächen zur Symbolleiste hinzuzufügen. Es ist möglich, dass sich ungültige Elemente drin befinden oder sich die Elemente sich in einem langsamen Netzwerk befinden.
+Dieses Element kann dieser Leiste nicht hinzugefügt werden.
+Der Vorgang schlug mit folgendem Fehler fehl: 
+Zusätzliche Ansicht kann das Element &quot;{0}&quot; der Systemsteuerung nicht anzeigen.
+Möchten Sie das CD-Laufwerk ausfahren?
+Dies kann passieren, da dieses Explorerfenster als Administrator geöffnet wurde.
+</DialogError>
+
+
+<DialogFileHashComputer>
+Abgeschlossen
+Abgebrochen
+Berechne Prüfsumme {0}/{1}
+Daten erfolgreich in die Zwischenablage kopiert.
+Pfad
+Prüfsumme
+&amp;Optionen
+Vollständiger Pfad
+Beim Schließen löschen
+Immer im Vordergrund
+(Berechne …)
+Öffnen der Datei fehlgeschlagen.
+Abgebrochen.
+Bitte warten …
+Deckkraft
+</DialogFileHashComputer>
+
+
+<DialogFileRenamer>
+Umbenennen
+Aktueller Ordner:
+Suche:
+Ersetze durch:
+Optionen
+Anwendungsbereich
+Groß-/Kleinschreibung
+Reguläre Ausdrücke
+Unterordner einschließen
+Tiefe
+Alle in diesem Ordner
+Ausgewählte Elemente
+Ziel
+Ordner und Dateien
+Ordner
+Dateien
+Bei Konflikten
+Bestätigen
+Automatisch
+Neuere behalten
+Maximale Tiefe der Unterordner festlegen. Bei 1 nur direkte Unterordner. Bei 0 keine Begrenzung.
+Suche …
+Verarbeite …
+{0} Elemente erfolgreich umbenannt.
+Erfolgreich {0}, Fehler {1} Elemente.
+^\tAnfang des Dateinamens
+$\tEnde des Dateinamens
+.\tJedes einzelne Zeichen
+[]\tJedes einzelne Zeichen der Zeichengruppe
+[^]\tJedes einzelne Zeichen, das nicht in der Zeichengruppe ist
+\s\tLeerraum
+\d\tDezimalstelle
+*\tNicht oder mehrmals
++\tEin- oder mehrmals
+?\tNicht oder einmal
+{n,m}\tn - m mal
+*?\tNicht oder mehrmals (engste Übereinstimmung)
++?\tEin- oder mehrmals (engste Übereinstimmung)
+??\tNicht oder einmal (engste Übereinstimmung)
+{n,m}?\tn - m mal (engste Übereinstimmung)
+()\tGruppierung
+|\toder
+$1\tErfasste Gruppe 1
+$2\tErfasste Gruppe 2
+$3\tErfasste Gruppe 3
+$n\tErfasste Gruppe n
+$&amp;\tVollständige Übereinstimmung
+$_\tVollständiger Dateiname
+$`\tTeil des Dateinamens vor der Übereinstimmung
+$&apos;\tTeil des Dateinamens nach der Übereinstimmung
+$+\tZuletzt erfasste Gruppe
+$$\t&quot;$&quot; wörtlich
+Fortlaufende Nummern
+Start
+Schrittweite
+Im Unterordner zurücksetzen
+? \tFortlaufende Nummer
+??\tFortlaufende Nummer an den letzten beiden Stellen
+???\tFortlaufende Nummer an den letzten drei Stellen usw.
+Ungültiger regulärer Ausdruck.
+Ursprünglicher Name
+Neuer Name
+Ordner
+Änderungsdatum
+Erstelldatum
+Größe
+Typ
+Umbenennen
+Datei
+Optionen
+Der Navigation des Ordnerfensters folgen
+Immer im Vordergrund
+Ordner öffnen …
+Schließen
+Voreinstellungen
+Ändere Dateinamenserweiterung mit Stapelverarbeitung abc -&gt; xyz
+Ändere Dateinamenserweiterung mit Stapelverarbeitung ALLE &gt; xyz
+Ersetze
+Liste
+Filter:
+Namensliste
+Ursprüngliche Dateinamenserweiterung beibehalten
+Ungültiger Dateiname.
+$x\Dateinamenserweiterung 
+$x\Dateipfad ohne Dateinamenserweiterung 
+Dieses Element umbenennen
+[${label}\tBenannte Gruppe
+[${label}\t n-te Gruppe im m-ten Treffer
+[${label}\tBenannte Gruppe
+[$L[...]\tKonvertiere in Kleinbuchstaben
+[$L[...]\tKonvertiere in Großbuchstaben
+[$L[...]\tErster Buchstabe eines Wortes in Großbuchstaben
+Aktualisieren
+In Kleinbuchstaben
+In Großbuchstaben
+Erster Buchstabe einse Wortes in Großbuchstaben
+</DialogFileRenamer>
+
+
+<DialogGroup>
+Neue Gruppe erstellen
+Name der Gruppe:
+Alle Tabs hinzufügen
+Sind Sie sicher, dass Sie die Gruppe &quot;{0}&quot; entfernen möchten?
+Gruppe entfernen
+Sind Sie sicher, dass Sie den Eintrag &quot;{0}&quot; entfernen möchten?
+Gruppeneintrag entfernen
+Eine Gruppendatei erstellen
+QTTabBar Gruppendatei
+{0} existiert bereits.\r\n\r\nMöchten Sie Hinzufügen (Ja) oder Ersetzen (Nein)?
+</DialogGroup>
+
+
+<DialogKeyFinder>
+[Gruppe]
+[Anwendungen]
+[Erweiterungen]
+Tastenkombinationen
+Aktion
+Genre
+Tastenkombinationen
+{0} Tastenkombination[[|en]].
+[Befehlsschaltfläche]
+</DialogKeyFinder>
+
+
+<DialogLibrary>
+Neue Bibliothek erstellen
+Name der Bibliothek:
+Alle Tabs hinzufügen
+</DialogLibrary>
+
+
+<DialogVersatileBar>
+Eintrag &quot;{0}&quot; wirklich entfernen?
+Element aus der Befehlsleiste entfernen
+Beschreibung bearbeiten
+</DialogVersatileBar>
+
+
+<DropHelper>
+Hierher kopieren
+Hierher verschieben
+Zu Anwendungsmenü hinzufügen
+</DropHelper>
+
+
+<Global>
+{0} Element[[|e]]
+Hier öffnen
+In &amp;aktuellem Tab öffnen
+In neuem Tab öffnen
+In der anderen Ansicht öffnen
+</Global>
+
+
+<GlobalMenu>
+Symb&amp;olleisten
+Symbol&amp;leisten fixieren
+Symbolleisten automatisch &amp;ausblenden
+Symbolleiste automatisch &amp;ausblenden
+Tasten&amp;kombinationen …
+&amp;Ordneroptionen …
+&amp;QTTabBar Optionen …
+&amp;Symbolleiste anpassen …
+&amp;Zweige
+Zum &amp;Anwendungsmenü hinzufügen: 
+Abbre&amp;chen
+Eine &amp;Gruppendatei erstellen …
+Neues &amp;Fenster öffnen
+Entfe&amp;rnen
+Dieses Element aus dem Menü entfe&amp;rnen
+&amp;Ordner öffnen
+Dieser Ordner ist leer.
+Gruppe aus aktivem Tab erstellen
+Gruppe aus allen Tabs erstellen
+Neue Gruppe erstellen …
+Gruppen verwalten …
+Aus&amp;schneiden
+&amp;Kopieren
+Ein&amp;fügen
+&amp;Verknüpfung einfügen
+&amp;Löschen
+&amp;Umbenennen
+&amp;Eigenschaften
+&amp;Symbol auswählen …
+Symbol zu&amp;rücksetzen
+Öffnen und andere Tabs schließen
+&amp;Hilfe
+In zusätzlicher Ansicht (unten) öffnen
+In zusätzlicher Ansicht (links) öffnen
+Öffnen Sie die Ansicht in Verzug
+</GlobalMenu>
+
+
+<GlobalTokens>
+Ausgewählte Dateien (doppelte Anführungszeichen, getrennt durch Leerzeichen, wenn mehrfach)
+Ausgewählte Dateien (ohne Anführungszeichen bei einzelner Datei)
+Ausgewählte Ordner (doppelte Anführungszeichen, getrennt durch Leerzeichen, wenn mehrfach)
+Ausgewählte Ordner (ohne Anführungszeichen bei einzelnem Ordner)
+Ausgewählte Dateien und Ordner (doppelte Anführungszeichen, getrennt durch Leerzeichen, wenn mehrfach)
+Ausgewählte Dateien und Ordner (ohne Anführungszeichen bei einzelnem Element)
+Aktuellen Ordner (doppelte Anführungszeichen wenn Leerzeichen enthalten)
+Aktueller Ordner (ohne Anführungszeichen)
+Ausgewählter einzelner Ordner oder aktueller Ordner (doppelte Anführungszeichen wenn Leerzeichen enthalten)
+Ausgewählter einzelner Ordner oder aktuellen Ordner (ohne Anführungszeichen)
+Name eines ausgewählten Elementes (ohne Anführungszeichen)
+Tab (Eventquelle)
+Tab Pfad (Eventquelle)
+</GlobalTokens>
+
+
+<GlobalToolbar>
+Menüleiste
+Statusleiste
+Tableiste
+Tableiste (unten)
+Symbolleiste
+Befehlsleiste
+Befehlsleiste (vertikal)
+Zusätzliche Ansicht (unten)
+Zusätzliche Ansicht (links)
+</GlobalToolbar>
+
+
+<GlobalTooltip>
+Zeigt oder versteckt die Symbolleiste.
+Sperrt die Größe und Position der Symbolleisten.
+Schaltet das automatische Ein- und Ausblenden der Symbolleisten ein und aus.
+Schaltet das automatische Ein- und Ausblenden dieser Symbolleiste ein und aus.
+Öffnet ein Suchfenster mit einer Liste aller zugeordneten Tastenkombinationen.
+Zeigt die Ordneroptionen an.
+Öffnet die Einstellungen für QTTabBar.
+Anderer Ort, wo dieser Tab vorkommt.
+Erstellt eine neue Gruppe und fügt den aktuellen Tab als neuen Eintrag hinzu.
+Erstellt eine neue Gruppe und fügt alle Tabs hinzu.
+Ordner auswählen, um eine neue Gruppe zu erstellen.
+Öffnet das Einstellungsfenster und verwaltet die Gruppendetails.
+Synchronisiert Ansichten.
+Synchronisiert Bildlauf.
+Synchronisiert Navigation.
+Ordner suchen.
+</GlobalTooltip>
+
+
+<GroupOpener>
+QTTabBar Gruppendatei
+Gruppen: 
+Diese Gruppendatei ist leer.
+Gruppendatei erstellen
+</GroupOpener>
+
+
+<IEWarning>
+QTTabBar funktioniert nicht im Internet Explorer.\r\nWenn Sie das Add-On deaktivieren, wird es auch im Explorer nicht mehr funktionieren.\r\nAktivieren Sie in diesem Fall QTTabBar und andere Symbolleisten in der Internet-Option.
+</IEWarning>
+
+
+<NotifyIcon>
+Alle Fenster wiederherstellen
+Alle schließen
+Fenster[[| ]]
+</NotifyIcon>
+
+
+<Option>
+QTTabBar Optionen
+N/A
+Standard
+Auf {0} kann nicht zugegriffen werden. Möchten Sie fortfahren?
+Pfad nicht erreichbar
+Einstellungen zurücksetzen
+Farbe wählen …
+Symbol auswählen …
+Symbol entfernen
+{links, oben, rechts, unten} =
+</Option>
+
+
+<OptionAppearance>
+Tabgröße
+Breite
+Höhe
+Max
+Min
+Feste Breite
+Text im Tabtitel 
+Schriftart wählen …
+Textausrichtung
+Textfarbe
+Aktiv
+Inaktiv
+Textschatten
+Schriftstil Fett für aktiven Tab
+Textverschiebung (x, y)
+Darstellung des Tab-Hintergrunds und -Text
+Modus für Darstellung des Tabs
+Automatisch
+Tabbreite begrenzen
+Linksbündig
+Zentriert
+Aussehen des Systems übernehmen
+Skin-Grafik
+Klassisch
+Pfad zur Grafik:
+Akzentfarbe
+Farbe wählen …
+Symbolleiste
+ Hintergrundfarbe Symbolleiste
+ Hintergrundfarbe Explorerleiste (links)
+ Hintergrundfarbe Explorerleiste (unten)
+ Hintergrundgrafik Symbolleiste
+Bild anordnen
+Menü
+Menü-Stil
+Menü-Deckkraft
+Maximale Zeichenlänge für Menüeinträge
+Tastenkombinationen im Menü anzeigen
+Kacheln
+Originale Größe
+Strecken
+In alle Richtungen strecken
+Windows 7
+Windows XP
+Standard (.NET)
+Windows 8
+Skin-Grafiken herunterla&amp;den …
+Anpassung (links, rechts)
+Tab
+Tab Skin
+Symbolleiste und Menü
+Schließen-Schaltfläche auf dem Tab
+Pfad zur Bilddatei:
+Position Schaltfläche (x, y)
+Navigationsbereich
+Hintergrundfarbe
+Textfarbe
+Gesperrt-Symbol
+Pfad zur Bilddatei:
+Position Gesperrt-Symbol (x, y)
+Schriftstil des aktiven Tabs
+Fett
+Kursiv
+Durchgestrichen
+Unterstrichen
+Tab Symbol
+Tab Symbol Position (x, y)
+Windows 10
+</OptionAppearance>
+
+
+<OptionAppLauncher>
+Ordner neu
+Neues Element
+Löschen
+Trennzeichen
+Pfad:
+Argumente:
+Arbeitsverzeichnis:
+Tastenkombination
+Die folgenden Schlüsselwörter werden während der Laufzeit durch den Pfad ersetzt.
+Ausgewählte Dateien
+Ausgewählte Ordner
+Ausgewählte Dateien und Ordner
+Aktueller Ordner
+Bei keiner Auswahl den aktuellen Ordner, sonst ausgewählten Ordner
+</OptionAppLauncher>
+
+
+<OptionCommandBar>
+Elemente können durch ziehen und loslassen (Drag &amp; Drop) zur Symbolleiste hinzugefügt oder entfernt werden. Bereits hinzugefügte Schaltflächen werden nicht aus der Sammlung entfernt.
+Erweiterungen
+Sammlung
+Aktivierte Schaltflächen in Sammlung (eigene) lassen
+Bilddatei für einfache Befehle:
+</OptionCommandBar>
+
+
+<OptionDesktopTool>
+Um das &apos;Desktop Tool&apos; zu aktivieren mit der rechten Maustaste auf die Windows-Taskleiste klicken und \r\ndort die Symbolleiste &apos;QT Tab Desktop Tool&apos; aktivieren.\r\n
+ Grafik für das Menü des Desktop Tools verwenden
+Pfad zur Grafik:
+Skin Grafikdatei herunterla&amp;den …
+Fenster auf dem Arbeitsbildschirm öffnen
+Aufnehmendes Fenster zum Arbeitsbildschirm verschieben
+Fenster, die vom Desktop Tool geöffnet werden nicht in bestehendes aufnehmen
+</OptionDesktopTool>
+
+
+<OptionEvent>
+Befehle mit Ereignissen verknüpfen, die beim Klicken auf ein Tab, die Tableiste oder Ordneransicht ausgelöst werden.
+Befele mit Anzeige- und Fenter-Ereignissen verknüpfen.
+Interaktive Ereignisse
+Andere Ereignisse
+Tab und Tableiste
+Ordneransicht
+Im Navigationsbereich (Ordnerstruktur)
+Adressleiste
+Befehlsschaltfläche Standardverhalten
+Fenster und Taskleiste
+Gruppen-Menü
+Navigation abgeschlossen
+Navigation fehlgeschlagen
+Fenster wird geöffnet
+Fenster soll geschlossen werden
+Unterordner im Menü
+Auch für zusätzlich ausgewählte Elemente
+Neuen Befehl erstellen …
+Aktiver Tab wurde gewechselt
+Editiere den aktuell verknüpften Befehl …
+</OptionEvent>
+
+
+<OptionEventActions>
+Schließen
+Eine Ebene nach oben gehen
+Sperren
+Menü anzeigen
+Neues Fenster
+Duplizieren
+Pfad kopieren
+Eigenschaften
+Unterordner-Menü anzeigen
+Ausgewählte Dateien in den Tab Kopieren
+Ausgewählte Dateien in den Tab verschieben
+Verknüpfungen zu ausgewählten Dateien im Tab erstellen
+Diesen Tab in die zusätzlich Ansicht (unten) verschieben
+Diesen Tab in die zusätzliche Ansicht (links) verschieben
+Diesen Tab in die andere Ansicht verschieben
+Ordner suchen und neuen Tab öffnen
+Alle außer dem aktiven Tab schließen
+Alle Sperren
+Zuletzt geschlossenen Tab wiederherstellen
+QTTabBar-Optionen öffnen
+Fenster schließen
+Aktiven Tab duplizieren
+Den zuletzt aktivierten Tab aktivieren
+Neuen Tab öffnen
+Neuen Tab im Hintergrund öffnen
+Im aktiven Tab navigieren
+Neuen Tab in der zusätzlichen Ansicht (unten) öffnen
+Neuen Tab in der zusätzlichen Ansicht (unten) im Hintergrund öffnen
+Im aktiven Tab der zusätzlichen Ansicht (unten) navigieren
+Neuen Tab in der zusätzlichen Ansicht (links) öffen
+Neuen Tab in der zusätzlichen Ansicht (links) im Hintergrund öffnen
+Im aktiven Tab der zusätzlichen Ansicht (links) navigieren
+Neuen Tab in der anderen Ansicht öffnen
+Neuen Tab in der anderen Ansicht im Hintergrund öffnen
+Im aktiven Tab der anderen Ansicht navigieren
+Neuen Tab in einer bevorzugten Ansicht öffnen
+Neuen Tab in einer bevorzugten Ansicht im Hintergrund öffnen
+Im aktiven Tab einer bevorzugten Ansicht navigieren
+Kopieren
+Ausschneiden
+Bearbeiten
+Tab schließen
+In die Taskleiste (Tray) senden
+Standard
+Im Hintergrund öffnen
+Ersetzen
+In der zusätzlichen Ansicht (unten) ersetzen
+In der zusätzlichen Ansicht (links) ersetzen
+In der anderen Ansicht ersetzen
+Einfügen in
+Benutzerbefehl
+Ordner in die Zwischenablage kopieren
+Ordner in die Zwischenablage ausschneiden
+Ordner aus der Zwischenablage einfügen
+Ordner löschen
+Ordner dauerhaft löschen
+Umbenennen starten
+Klick an den Hintergrund übergeben
+Ordner suchen und neuen Tab im Hintergrund öffnen
+Desktop öffnen
+Standard Tab öffnen
+</OptionEventActions>
+
+
+<OptionEventSource>
+Bei Klick auf Tab:
+Bei Doppelklick auf aktiven Tab:
+Bei Mittelklick auf Tab:
+Bei Rechtsklick auf Tab:
+Bei Doppelklick auf Symbolleiste:
+Bei Mittelklick auf Symbolleiste:
+Bei Rechtsklick auf Symbolleiste:
+Bei Klick im Navigationsbereich:
+Bei Mittelklick im Navigationsbereich:
+Bei Enter-Taste im Navigationsbereich:
+Bei Klick auf Brotkrumennavigation:
+Bei Mittelklick auf Brotkrumennavigation:
+Bei Klick auf Befehlsleisten-Schaltfläche:
+Bei Mittelklick auf Befehlsleisten-Schaltfläche:
+Bei Klick auf Schließen-Schaltfläche des Fensters:
+Bei Klick auf &apos;Fenster Schließen&apos; in der Jump List:
+Bei Klick auf Gruppen-Menüpunkt:
+Bei Mittelklick auf Gruppen-Menüpunkt:
+Bei Doppelklick auf Ordner-Symbol:
+Bei Mittelklick auf Ordner-Symbol:
+Bei Doppelklick auf Ordneransicht:
+Bei Mittelklick auf Ordneransicht:
+Bei Klick auf Unterordner-Menüpunkt:
+Bei Mittelklick auf Unterordner-Menüpunkt:
+Bei Enter-Taste auf Ordner-Symbol:
+Bei Klick auf &quot;+&quot; Schaltfläche in der Tableiste:
+</OptionEventSource>
+
+
+<OptionExtraView>
+Zusätzliche Ansicht (unten)
+Zusätzliche Ansicht (links)
+Priorität übergeben an …
+Detailbereich anzeigen
+Ordnerstruktur anzeigen
+Tableiste
+Tabs beim Start wiederherstellen
+Adressleiste
+Navigationsschaltflächen
+Open
+Unten
+Links
+Rechts
+Fokus mit der Tab-Taste an die andere Ansicht übergeben
+Verstecken wenn alle Tabs geschlossen sind
+Standard Tab öffnen:
+Größe der zusätzlichen Ansichten automatisch anpassen
+Öffnen wenn der letzte Tab geschlossen wurde
+Mit der Filterbox im Ordner suchen anstatt zu filtern
+</OptionExtraView>
+
+
+<OptionFolderView>
+Gehe eine Ordnerebene höher durch Drücken der Rückschritttaste
+Den Cursor am Ende einer Zeile wieder nach vorne bringen
+Beim Umbenennen Auswahl durch Drücken von F2 ändern
+Horizontaler Bildlauf mit Umschalttaste + Mausrad
+Bildlauf in Ordneransicht auch wenn diese keinen Fokus hat
+Bildlauf in Baumstruktur auch wenn diese keinen Fokus hat
+Wenn Dateiname in Detailansicht nicht ganz lesbar ist, diesen im Tooltip anzeigen
+Mittelklick auf Ordnersymbol in Ordneransicht
+Doppelklick auf freie Fläche in Ordneransicht
+Mittelklick auf freie Fläche in Ordneransicht
+Kompatibilitätsansicht der Listenanzeige benutzen
+Nicht die ganze Zeile auswählen
+Spaltenüberschrift immer anzeigen
+Wasserzeichen für bestimmte Ordner anzeigen
+Feste Spaltenbreite der Listenanzeige:
+Farbe für ungerade Zeilen in der Detailansicht
+Farbe für gerade Zeilen in der Detailansicht
+Hintergrundfarbe wählen …
+Textfarbe wählen …
+Neuer Tab
+Neues Fenster
+Kopieren
+Ausschneiden
+Eigenschaften
+Eine Ebene höher
+Ordner suchen und in Tab öffnen
+Duplizieren
+Aktuellen Ordnerpfad kopieren
+Aktuellen Ordnernamen kopieren
+Fenster schließen
+Aktiven Tab schließen
+Alle auswählen
+Auswahl umkehren
+Neuen Ordner erstellen
+Neue Textdatei erstellen
+Dialogfenster &apos;Aus Ordner kopieren&apos; öffnen
+Dialogfenster &apos;Aus Ordner verschieben&apos; öffnen
+Dialogfenster &apos;Verknüpfungen aus Ordner erstellen&apos; öffnen
+Einfügen
+Benutzerdefinierte Farben in der Kompabilitätsansicht
+Befehl &apos;Text- und Hintergrundfarbe einstellen&apos; zum Kontextmenü hinzufügen
+Farben für NTFS-Kompression und -Verschlüsselung überschreiben
+Pfad, Dateinamenserweiterung und reguläre Ausdrücke
+Bedingungen
+Pfad, Name, Dateinamenserweiterung (.ext) oder regulären Ausdruck (/regularexpression/i) hinzufügen
+Hinzufügen
+Update
+Textfarbe ändern
+Farbiger Hintergrund
+Typ
+Zeile
+Ansicht
+Gegenstand
+Ungerade
+Gerade
+Pfad
+Name
+Ort
+Ordnerfenster
+Desktop
+Standard-Streifen
+(nicht angegeben)
+Ablege-Assistent (bei Drag &amp;&amp; Drop-Aktionen)
+Ablege-Assistent in Ordnerfenstern anzeigen
+Ablege-Assistent auf dem Desktop anzeigen (benötigt Desktop Tool)
+Für Ordner
+Für Verknüpfungen zu Ordnern
+Hintergrundfarbe (in der Kompatibilitätsansicht in Windows 8.x und Windows 10 verfügbar)
+Hintergrundfarbe für ausgewählte Spalten in Detailansicht
+Benutzerdef. Farben überdecken
+Unterordnermenü
+Voreingestellte Farben hinzufügen …
+Ausführbare Dateien
+Vor Unicode-Steuerzeichen warnen
+Allgemein
+Benutzerdefinierte Farben
+Shell-Kontextmenü
+QTTabBar-Befehle
+Kontextmenü für Ordner/Datei hinzufügen
+Kontextmenü für Ordner Hintergrund hinzufügen
+Ordner-Verben
+Dies ist notwendig um Tabs in bestehende Fenster aufzunehmen.
+Ordner-Kontextmenü Befehle wie &quot;In neuem Tab öffnen&quot; hinzufügen
+Umbenennen nachverfolgen, wenn durch den Pfad angegeben.
+Aktiv
+Inaktiv
+Textfarbe (in der Kompatibilitätsansicht in Windows 8.x und Windows 10 verfügbar)
+Wasserzeichen
+Art des Ordners
+Rahmenfarbe der Ansicht (Windows 8.x, 10)
+Erweiterte inkrementelle Suche in der Ansicht
+Übereinstimmung in der Mitte des Dateipfades nicht nur am Anfang
+Sessionablauftzeit (Millisekunden)
+Diese Option aktiviert weitere nützliche Kurzwahltasten und die inkrementelle Suche. Eine Erweiterung die das IFilter-Interface implementiert emfängt die eingegebenen Zeichen und kann das Auswahlergebnis verändern.
+Benutze eine Erweiterung die das IFilter-Interface implementiert, falls installiert.
+Benutzerdefinierte Farben
+Ungefähre Übereinstimmung
+Verknüpfungen
+Benutze original Auswahlrechteck
+Synchronisiere mit Akzentfarbe
+Systemfarbe …
+Systemfarbe auswählen
+Akzentfarbe
+Desktopfarbe
+Helligkeit
+Dynnamische Textfarbe
+Dynamische Hintergrundfarbe
+</OptionFolderView>
+
+
+<OptionGeneral>
+ Zeige Tooltips
+Detaillierte Tooltips anzeigen
+Befehlsinformationen in Statusbar anzeigen
+Vor- und Zurück-Maustasten aufnehmen
+Vor- und Zurück-Maustasten tauschen
+Zeige Navigationsschaltflächen in Tableiste
+Sprachdatei:
+Rechts
+Links
+Sprachdatei herunterladen …
+Sprachdatei erstellen …
+Aktualisierung
+Benachrichtigung bei neuen Updates
+Beta-Versionen ignorieren
+Update jetzt herunterladen …
+Einstellungen verwalten
+Netzwerk
+Netzwerk-Zeitüberschreitung, in Sekunden
+Zugriff wiederholen bis Zeitlimit erreicht ist
+</OptionGeneral>
+
+
+<OptionGenre>
+Allgemein
+Verlauf
+Tab
+Fenster
+Symbolleisten
+Ereignisse
+Drag &amp; Drop
+Ordneransicht
+Kompatibele Ordneransicht
+Zusätzliche Ansichten
+Darstellung
+Gruppen
+Anwendungen
+Befehlsschaltflächen
+Plugins
+Tastenkombinationen
+Vorschau
+Unterordner-Menü
+Desktop-Tool
+Töne
+Sonstiges
+</OptionGenre>
+
+
+<OptionGroup>
+Ort hinzufügen …
+Neue Gruppe
+Löschen
+Trennzeichen
+Start Up-Gruppe
+Tastenkombination für die ausgewählte Gruppe:
+Beim Öffnen einer Gruppe alle Tabs schießen
+Bearbeitungsoptionen für Gruppen im Gruppenmenü anzeigen
+Bearbeitungsoptionen für Gruppeneinträge im Kontextmenü für Gruppen anzeigen
+Untereinträge im Dropdown-Menü anzeigen
+Unterordnermenü für Untereinträge anzeigen
+Kennzeichnung der Autostart-Gruppen:
+Position an der neue Autostart-Gruppen eingefügt werden:
+Unterstrichen
+Kursiv
+Rechts
+Links
+Sperren
+Farbe für die ausgewählte Gruppe:
+Farbliche Kennzeichnung der Tabs in einer Gruppe:
+Wolke
+Ausgefüllt
+Dreieck (rechts)
+Dreieck (links)
+Gruppenfarbe in Menüs anwenden
+Bearbeiten
+Optionen
+</OptionGroup>
+
+
+<OptionHistory>
+Zuletzt geschlossene Tabs
+Anzahl maximal gespeicherter Einträge
+Zum Verlauf hinzufügen beim:
+Beim Abmelden löschen
+Letzte Dateien
+Verlauf des Menüs mit Anwendungen speichern
+Argumente des Menüs mit Anwendungen speichern
+EXE-Dateien separat speichern
+Schließen von Tabs
+Öffnen von Tabs
+Navigieren
+Navigieren und Öffnen von Tabs
+Duplikate erlauben
+In alphabetischer Reihenfolge anordnen
+</OptionHistory>
+
+
+<OptionKeyShortcuts>
+In Zwischenablage senden
+Alle einklappen
+Aktion
+Tastenkombination
+QTTabBar - Tab und Navigation
+QTTabBar - Fenster und Symbolleiste
+QTTabBar - Menü
+QTTabBar - Bearbeiten
+QTTabBar - Vorschau
+QTTabBar - Verschiedenes
+Plugin
+Erlaube Tastenkombinationen ohne Zusatztasten (Strg, Umschalt, Alt)
+&quot;{0}&quot; wurde bereits mit &quot;{1}&quot; belegt.\r\n\r\nMöchten Sie die Tastenkombination neu zuweisen?
+Bestätigung der Neuverknüpfung
+(Pass-Through)
+Standard Tastenkombinationen für mit * markierte Elemente können durch Umschalt + Esc auf Pass-Through eingestellt werden.
+QTTabBar - Ordneransicht
+QTTabBar - Zusätzliche Ansichten und Synchronisation
+QTTabBar - Konzentration
+</OptionKeyShortcuts>
+
+
+<OptionMiscs>
+ Einstellungen periodisch exportieren
+Intervall (Tage)
+Verzeichnis
+Einstellungen exportieren …
+Auf Standardwerte zurücksetzen …
+Taskleiste
+Separate Taskleisten-Schaltfläche für dieses Einstellungen-Fenster anzeigen
+Separate Taskleisten-Schaltfläche für das Fenster zur Prüfsummenberechnung anzeigen
+Spende
+Zeige deaktivierte Fehlermeldungen
+Dies stellt die Standardeinstellungen wieder her.\r\n\r\n&apos;Ja&apos; entfernt alle Änderungen einschließlich Gruppen und Anwendungen, die Sie angelegt haben. Auch alle Plugins werden deinstalliert.\r\n\r\n&apos;Nein&apos; stellt die Einträge der Auswahlkästchen und Kombinationsfelder wieder her. Gruppen, Anwendungen und Plugins bleiben erhalten.\r\n\r\nEs werden keine Änderungen durchgeführt, bis Sie OK oder Anwenden drücken.
+Einstellungen löschen
+Anregungen und Fehlermeldungen
+Einstellungen importieren …
+Lösche Auto-Vervollständ.-Verlauf
+Kontextmenü Icon-Cache neu erstellen
+Ordner Fenster Größe, Position und Ansicht zurücksetzen
+Desktopsymbol-Positionen speichern …
+Desktopsymbol-Positionen wiederherstellen …
+Häufig genutzte … Listen löschen (MRUs)
+&quot;Ausführen&quot; im Startmenü
+Eingegebene Pfade in der Adressleiste
+Suchvorschläge
+Zuletzt verwendete Elemente im Startmenü
+Zuletzt geöffnete Programme im Startmenü
+Shell
+Scripting
+Standard Ziel-Ansicht, wenn nicht angegeben
+Ansicht die den Fokus hat
+Standardansicht
+Transparentes Fenster eines anderen Prozesses verstecken das eine Interaktion der Ordneransicht mit dem Mauszeiger verhindert (nicht empfohlen)
+</OptionMiscs>
+
+
+<OptionPlugin>
+Plugin hinzufügen …
+Optionen
+Deaktivieren
+Aktivieren
+Deinstallieren
+Über {0}
+Diese Plugins werden auch deinstalliert:\r\n\r\n {0}\r\n\r\nDrücken Sie OK, um alle zu deinstallieren.
+</OptionPlugin>
+
+
+<OptionPreview>
+Zeige Vorschau-Tooltip
+Dateiinfo unter Vorschaubildchen anzeigen
+Für Netzwerkdateien aktivieren
+Für Dateien in komprimierten Ordnern aktivieren
+Nur bei Drücken der Umschalttaste
+Zeige die Vorschau auch, wenn das Fenster nicht aktiv ist
+Versuche, EXIF-Vorschaubildchen zu erhalten (schneller, aber geringere Qualität)
+Wiedergabepunkt von Musik und Filmen merken
+In einer Ecke des Bildschirms anzeigen
+Versuchen, in voller Größe anzuzeigen
+Größe des Vorschaufensters
+Maximale Breite/Höhe Bild
+Maximale Breite/Höhe Film
+Maximale Breite/Höhe Text
+Maximale Datenmenge (in KiB) eines Textes lesen
+Schriftart
+Schriftart wählen …
+Dateiendungen
+Bild
+Film &amp; Musik
+Text
+Einstellen
+Löschen
+Vorschaufenster-Transparenz
+Maximale Speichergröße für den Bilder-Cache, in MB
+Grafikspeicher löschen
+Lautstärke
+Erste Verzögerung bis zur Vorschauanzeige, in ms
+Vollbild
+Bildschirm für Vollbildanzeige
+Gewählter Bildschirm:
+Aktueller Bildschirm
+Nächster
+Voriger
+Festgelegt
+Versuche die Anzeige in angegebener maximaler Größe
+Textfarbe
+Hintergrundfarbe
+Infotext Beschreibung
+Automatisch ausblenden
+Immer sichtbar
+Hardwarebeschleunigung verwenden, falls vorhanden
+Diashow im Vollbildmodus. Dauer des Bildes in ms:
+Vorschaufenster per Hotkey im Vollbild (Numpad &apos;.&apos;)
+Allgemein
+Erweiterungen, Schriftart und Farbe
+Vorschaufenster Größe
+Verwenden Sie keine Hardware-Beschleunigung für h. 264 Dateien auf Submonitors (Abhilfe für das Einfrieren)
+</OptionPreview>
+
+
+<OptionSearchOpt>
+Suchergebnis
+Genre
+Hit
+</OptionSearchOpt>
+
+
+<OptionSound>
+Bei Fehlern und Dialogen einen Ton abspielen
+Töne bei Navigation
+Wav-Datei für Tonausgabe bei Dateioperationen durch QTTabBar.
+ Ton beim Kopieren abspielen 
+ Ton beim Ausschneiden abspielen 
+ Ton beim Einfügen abspielen 
+ Ton beim Löschen abspielen 
+Immer abspielen
+Abspielen bei Navigation im Bereich
+Keine Töne
+In der System Audio Session abspielen
+</OptionSound>
+
+
+<OptionSubFolderMenu>
+Unterordnermenü anzeigen
+Dateien anzeigen
+Versteckte Objekte anzeigen
+Systemdateien anzeigen
+Vorschau-Tooltip anzeigen
+Nur bei Drücken der Umschalttaste zeigen
+Zeige die Vorschau auch, wenn das Fenster nicht aktiv ist
+Zeige Gruppeneinträge als Hauptmenü einer .QTGruppendatei
+Beim Ziehen von Ordnern und Dateien ein Menü für den Ordner unter der Maus zeigen
+Aktiviere Menü für komprimierte Ordner
+Unterordnerhinweis andeuten, wenn ein Menü aufgerufen ist
+In Bibliotheken die Elemente nach Ordner sortieren
+Auch für die Einträge in der Befehlsleiste aktivieren.
+Auch für die Einträge in der Befehlsleister aktivieren (vertikal).
+Menüdeckkraft
+Zeit, bevor das Menü beim Darüberhalten erscheint, in ms
+Zeit, bis Vorschau angezeigt wird, in ms
+Elemente sortieren nach
+Dateierweiterung
+Name
+Änderungsdatum
+Änderungsdatum (ältere zuerst)
+Benutzerdefinierte Farbe verwenden
+</OptionSubFolderMenu>
+
+
+<OptionTab>
+Neue Tabs hier öffnen:
+Diesen Tab nach dem Schließen eines Tabs aktivieren:
+Mehrere Zeilen mit Tabs
+Tabberührung während Ziehen (Drag &amp;&amp; Drop) bewirkt:
+Standardaktion bei Loslassen
+Ziehen von Ordnern und Dateien auf einen Tab zulassen
+Tab nicht als Ziel zulassen beim Dateien daraufziehen wenn Tab Quelle ist
+Tableiste nicht als Ziel zulassen beim Dateien daraufziehen wenn Tab Quelle ist
+Neuen Tab aktivieren
+Ordner nicht duplizieren, wenn Strg-Taste nicht gedrückt ist
+Duplizieren beim Loslassen erlauben
+Tabnummer anzeigen
+Zweideutige Tabs automatisch umbenennen
+Entferne den ursprünglichen Tab, wenn daraus ein neues Fenster erstellt wird
+Durch Tabs wechseln mit Mausrad
+Tabbewegungen animieren
+Zeit, bevor es beim Ziehen aktiviert wird, in ms
+Faktor für Animation (größer = schneller)
+Ganz rechts
+Ganz links
+Rechts
+Links
+Zuletzt aktiviert
+mehrfach, aktiver Tab unten
+mehrfach
+Einzeln
+Zeige Unterordnermenü
+Aktivieren
+Systemstandard
+Kopieren
+Verschieben
+Link
+Schließen-Schaltfläche auf Tabs anzeigen
+Bei Drücken der Alt-Taste
+Beim Überfahren mit der Maus
+Symbole im Tab anzeigen
+Zeige Unterordnermenü beim Klicken auf Tab-Symbol
+Klickbaren Bereich um Tab-Symbol erweitern
+Laufwerksbuchstaben anzeigen
+Verhalten bei gesperrtem Tab
+Verhindern, dass andere Tabs aktiviert werden
+Navigieren im gesperrten Tab verhindern
+Schließen des Fensters verhindern
+Zeige Tabauswahl beim Drücken von Strg + Tab
+Tabauswahl im Aero-Design
+Tableiste auf der anderen Seite beginnen
+Tab als Quelle bei Drag &amp; Drop-Aktionen
+Verknüpfung kopieren, verschieben oder erstellen
+Neues Fenster erstellen
+Ablegen von der gleichen Tableiste zulassen
+Tableiste als Ziel bei Drag &amp; Drop-Aktionen
+Tab von der gleichen Tableiste zulassen
+Anzahl der Einträge in der Tabauswahl
+Standardverhalten (umgekehrt durch Alt-Taste)
+Tab schließen, wenn das Navigieren fehlschlug
+Allgemein
+Schließen-Schaltfläche, Symbole, Sperren
+Ändere ausgewählten Tab mit Mausrad + und Rechter Maustaste
+&quot;+&quot; Schaltfläche zur Tableiste hinzufügen
+</OptionTab>
+
+
+<OptionToolbar>
+Symbolleisten automatisch ausblenden
+Erweitern, wenn sich Tabs ändern
+Erweitern, wenn das Fenster maximiert wird
+Nicht zeigen, wenn Maus die Leiste berührt
+Verzögerung für automatisches Ausblenden, in ms
+Verzögerung für automatisches Einblenden, in ms
+Tableiste (unten) über Befehlsleiste (vertikal) platzieren
+Nur, wenn lediglich ein Tab in der Leiste ist
+Gib Priorität …
+Synchronisiere die horizontale Position der Tableiste (oben) mit der Standartansicht wenn die zusätzliche Ansicht (links) aktiviert ist.
+</OptionToolbar>
+
+
+<OptionTooltip>
+Webseite http://qttabbar.wikidot.com/ aufrufen
+Strg + Pfeiltaste hoch
+Strg + Pfeiltaste runter
+Ausgewählte Gruppe als Autostart-Gruppe markieren.\r\nAutostart-Gruppen werden beim Öffnen des Fensters geladen.
+Für ausgewählte Elemente eine Gruppendatei erstellen.\r\nEine Gruppendatei ist eine Verknüpfung zu Gruppen.
+Zeigt einen Dialogfenster mit der Frage an, ob Sie Einstellungen löschen möchten.
+Wird benutzt, wenn die Breite/Höhe des Vorschaubilds unter 256 Pixel ist.
+Kann mit Umschalttaste geschlossen werden.
+0 für keine Begrenzung.
+Datei auswählen
+Ordner auswählen
+Platzhalter wählen
+Nummerische Tasten +/- sind während dem Abspielen verfügbar.
+Leert den Zwischenspeicher für Grafiken.
+Durch Verwendung der Kompatibilitätsansicht aus XP/Vista können die Features &apos;Automatische Anordnung&apos; und &apos;Am Raster ausrichten&apos; aktiviert und deaktiviert werden.
+Dateien und Ordner werden zu dem Tab verschoben oder kopiert per Drag &amp;&amp; Drop (Ziehen und Loslassen)
+Schützt Tab vor Drag &amp;&amp; Drop-Aktionen auf Tab
+Schützt Tab vor Drag &amp;&amp; Drop-Aktionen auf Symbolleiste
+Wechselt den Sperr-Status vom Tab
+Ausgewähltes Element entfernen
+Dateien und Ordner wählen
+Benötigt 4 vertikale Pixel.\r\nEs muss von oben nach unten die Zustände, -normal, -scharf, -gedrückt und &apos;Alt-Taste gedrückt&apos; -Bilder enthalten.
+Wählen Sie oder erstellen Sie einen Befehl ausführen.
+Zeige Hilfe zu dieser Seite
+</OptionTooltip>
+
+
+<OptionWindow>
+Neue Tabs in bestehendem Fenster aufnehmen
+Beim Minimieren Fenster in Infobereich legen
+Fenstergröße nicht verändern
+Fenstertransparenz speichern
+&apos;Fenster-ganz-oben&apos;-Status speichern
+Menüleiste verstecken
+Fenster vergrößern, wenn sich die Zeilen in der Tableiste ändern
+Fenster horizontal maximieren bei Doppelklick auf rechten oder linken Fensterrand
+Tabs wiederherstellen
+Gesperrte Tabs wiederherstellen
+Nur für das erste Fenster
+Öffne diesen Ordner, wenn der letzte Tab geschlossen wurde:
+Schütze diesen Tab vor dem Schließen
+Fenster auf dem Arbeitsbildschirm öffnen
+Aufnehmendes Fenster auf den Arbeitsbildschirm verschieben
+Fenster durch ShellExecuteHooks aufnehmen (erneutes Anmelden erforderlich)
+Aufnehmen durch Win + E
+Fokus hier setzen, wenn sich ein neues Fenster öffnet:
+Navigationsbereich (Ordnerstruktur)
+Adressfeld
+Suchfeld
+Aktiver Tab
+Filterbox
+Neue Tabs in bestehendes Fenster aufnehmen
+Ordner oder Tabs können per Drag &amp; Drop der Ausschlussliste hinzugefügt werden.
+Ausgeschlossene Ordner/Pfade
+Neue Tabs in folgende Ansicht aufnehmen:
+Neue Tabs in bestehende Fenster aufnehmen und Ausschlussliste
+Vom Desktop geöffnete Tabs nie aufnehmen
+Wenn sich das aufnehmende Fenster auf einem anderen virtuellen Desktop befindet:
+Neues Fenster auf dem aktuellen Desktop öffnen
+Zum Desktop wechseln der das aufnehmende Fenster enthält
+Das aufnehmende Fenster auf den aktuellen Desktop verschieben
+</OptionWindow>
+
+
+<ShellContextMenu>
+QTTabBar-Befehle
+In Tab kopieren …
+In Tab verschieben …
+Verknüpfung im Tab …
+In Ordner kopieren …
+In Ordner verschieben …
+Verknüpfung im Ordner erstellen …
+Von Ordner kopieren …
+Von Ordner verschieben …
+Verknüpfung von Ordner erstellen …
+Ordner-Struktur zum Tab kopieren …
+Erweitertes Umbenennen …
+In ausgewählten Ordner einfügen
+</ShellContextMenu>
+
+
+<ShortcutKeyName>
+Zurück (Alt + Pfeiltaste links)
+Vorwärts (Alt + Pfeiltaste rechts)
+Zurück zu Start
+Vorwärts zum Ende
+Nächsten Tab aktivieren
+Vorigen Tab aktivieren
+Ersten Tab aktivieren
+Letzten Tab aktivieren
+Aktuellen Tab schließen
+Alle Tabs schließen, außer den aktuellen
+Linken Tab schließen
+Rechten Tab schließen
+Fenster schließen (Alt + F4)
+Schließen rückgängig machen
+Aktuellen Tab duplizieren
+Aktuellen Ordner in neuem Fenster öffnen
+Sperren oder Entsperren vom aktuellen Tab
+Sperren oder Entsperren von allen Tabs
+Ordner wählen und im Tab öffnen
+Neue Gruppe erstellen
+Einstellungsfenster öffnen
+Zeige Menü der Tableiste
+Tabmenü anzeigen
+Zeige Gruppenmenü (Symbolleiste)
+Zeige Menü mit letzten Ordnern (Symbolleiste)
+Zeige Menü mit Anwendungen (Symbolleiste)
+Menüleiste anzeigen oder verstecken
+Ausgewählte Dateipfade kopieren
+Ausgewählte Dateinamen kopieren
+Aktuellen Ordnerpfad kopieren
+Aktuellen Ordnernamen kopieren
+Berechne die Prüfsumme der ausgewählten Dateien
+Berechne die Prüfsumme der ausgewählten Dateien und kopiere (ohne Fenster)
+Fenster in den Vordergrund
+Transparenz +
+Transparenz -
+Lege Fokus auf Ordneransicht
+Lege Fokus auf Suchfeld
+Lege Fokus auf Ordnerstruktur
+Lege Fokus auf Tableiste
+Lege Fokus auf Befehlsleiste (vertikal)
+Zeige Unterordnermenü für ausgewählten Ordner
+Versuche, Vorschauhinweis für ausgewählte Datei anzuzeigen
+Fenster in Infobereich legen
+Ausgewählte Dateien löschen (Entf)
+Ausgewählte Dateien dauerhaft löschen (Umschalt + Entf)
+Auswahl umkehren
+Ausgewählten Ordner löschen
+Ausgewählten Ordner kopieren
+Ausgewählten Ordner ausschneiden
+Verknüpfung einfügen
+Neuen Ordner erstellen
+Neue Textdatei erstellen
+Datei mit Verknüpfung erstellen
+Dialog &apos;Kopiere zu Ordner&apos; öffnen
+Dialog &apos;Verschiebe zu Ordner&apos; öffnen
+Dialog &apos;Kopiere zu Tab&apos; öffnen
+Dialog &apos;Verschiebe zu Tab&apos; öffnen
+Dialog &apos;Verknüpfung in Tab erstellen&apos; öffnen
+Ausgewählte Dateien zum vorigen Tab kopieren
+Ausgewählte Dateien zum vorigen Tab verschieben
+Verknüpfungen von ausgewählten Dateien im vorigen Tab erstellen
+Ausgewählte Dateien zum nächsten Tab kopieren
+Ausgewählte Dateien zum nächsten Tab verschieben
+Verknüpfungen von ausgewählten Dateien im nächsten Tab erstellen
+Dialog &apos;Kopiere aus Ordner&apos; öffnen
+Dialog &apos;Verschiebe aus Ordner&apos; öffnen
+Dialog &apos;Verknüpfung aus Ordner erstellen&apos; öffnen
+Dialog &apos;Aus vorigem Tab kopieren&apos; öffnen
+Dialog &apos;Aus vorigem Tab ausschneiden&apos; öffnen
+Dialog &apos;Verknüpfung zu Elementen aus vorigem Tab erstellen&apos; öffnen
+Dialog &apos;Aus nächstem Tab kopieren&apos; öffnen
+Dialog &apos;Aus nächstem Tab ausschneiden&apos; öffnen
+Dialog &apos;Verknüpfung von Elementen aus dem nächsten Tab erstellen&apos; öffnen
+Symbolleiste anzeigen oder verstecken
+Befehlsleiste anzeigen oder verstecken
+Vertikale Befehlsleiste anzeigen oder verstecken
+Statusleiste anzeigen oder verstecken
+Alle Tabs aus allen Fenstern zusammenfügen
+Neue Bibliothek erstellen
+Tastenkombinationen anzeigen
+Menü zuletzt benutzter Dateien anzeigen (Symbolleiste)
+Aktiviere den zuletzt aktiven Tab
+Erstelle einen neuen Ordner und öffne den Tab
+Lautstärke erhöhen
+Lautstärke verringern
+Lautlos
+Langsamer abspielen
+Geschwindigkeit zurücksetzen
+Schneller abspielen
+Zurück springen
+Pause
+Vorwärts springen
+Fenster verkleinern
+Versuche, in voller Größe zu zeigen
+Fenster vergrößern
+Wechseln in volle Größe
+Wechseln in Eck-Modus
+Vollbild
+Aktuellen Ordner umbenennen
+Lege Fokus auf Suchfeld
+Fenster horizontal maximieren
+Öffne Einstellungsfenster der Symbolleiste
+Cursor nach links bewegen
+Cursor nach oben bewegen
+Cursor nach rechts bewegen
+Cursor nach unten bewegen
+Symbolleisten verkleinern
+Symbolleisten vergrößern
+Symbolleisten anzeigen oder verstecken
+Tableiste anzeigen oder verstecken
+Tableiste (unten) anzeigen oder verstecken
+Aktuellen Tab nach links schieben
+Aktuellen Tab nach rechts schieben
+Wechseln zwischen Tableiste oben und Tableiste unten
+Zeige Verlauf vom aktiven Tab als Menü an
+Tabs aus dem zuvor geschlossenen Fenster wiederherstellen
+Leere letzten Tabverlauf
+Leere letzten Dateiverlauf
+Vorschau-Vollbildansicht sperren
+Voriges Stück abspielen
+Nächstes Stück abspielen
+Fenster mit Vollbildanzeige zum vorherigen Monitor verschieben
+Fenster mit Vollbildanzeige zum nächsten Monitor verschieben
+Zeige das Umbenennen Dialogfenster
+Extra große Symbole
+Große Symbole
+Mittlere Symbole
+Kleine Symbole
+Liste
+Details
+Kacheln
+Inhalt
+Nach Namen sortieren
+Nach Größe sortieren
+Nach Typ sortieren
+Nach Änderungsdatum sortieren
+Fügen Sie in ausgewählten Ordnern
+Ein- und Ausblenden der zusätzlichen Ansicht (unten)
+Ein- und Ausblenden der zusätzlichen Ansicht (links)
+Lege Fokus auf zusätzliche Ansicht (unten)
+Lege Fokus auf zusätzliche Ansicht (links)
+Ausgewählte Dateien in zusätzliche Ansicht (unten) kopieren
+Ausgewählte Dateien in zusätzliche Ansicht (links) kopieren
+Ausgewählte Dateien in Standardansicht kopieren
+Ausgewählte Dateien in zusätzliche Ansicht (unten) verschieben
+Ausgewählte Dateien in zusätzliche Ansicht (links) verschieben
+Ausgewählte Dateien in Standardansicht verschieben
+Verknüpfung der ausgewählten Dateien in zusätzlicher Ansicht (unten) erstellen
+Verknüpfung der ausgewählten Dateien in zusätzlicher Ansicht (links) erstellen
+Verknüpfung der ausgewählten Dateien in Standardansicht erstellen
+Synchronisiere Ansichten scrollen (starten/anhalten)
+Synchronisiere Ansichten Navigation (starten/anhalten)
+Synchronisiere die Position anderer Ansichten mit der fokussierten Ansicht
+Synchronisiere die Position der fokussierten Ansicht mit der anderen Ansicht
+Ausgewählte Dateien in die andere Ansicht kopieren (aus der Standardansicht zur bevorzugten Ansicht kopieren, wenn beide Ansichten aktiv sind bzw. aus der zusätzlichen Ansicht zur Standardansicht kopieren)
+Ausgewählte Dateien in die andere Ansicht verschieben (aus der Standardansicht zur bevorzugten Ansicht verschieben, wenn beide Ansichten aktiv sind bzw. aus der zusätzlichen Ansicht zur Standardansicht verschieben)
+Verknüpfung der ausgewählten Dateien in die anderer Ansicht erstellen (aus der Standardansicht zur bevorzugten Ansicht, wenn beide Ansichten aktiv sind bzw. aus der zusätzlichen Ansicht zur Standardansicht)
+Lege Fokus auf nächste Ansicht
+Lege Fokus auf die Filterbox in der aktiven Ansicht
+Aktiven Tab in die Standardansicht verschieben
+Aktiven Tab in die zusätzliche Ansicht (unten) verschieben
+Artiven Tab in die zusätzliche Ansicht (links) verschieben
+Aktiven Tab zur anderen Ansicht veschieben (aus der Standardansicht zur bevorzugten Ansicht verschieben, wenn beide Ansichten aktiv sind bzw. aus der zusätzlichen Ansicht zur Standardansicht verschieben)
+Synchronisiere die Position aller anderen Ansichten mit der fokussierten Ansicht
+1. Tab in der fokussierten Ansicht aktivieren
+2. Tab in der fokussierten Ansicht aktivieren
+3. Tab in der fokussierten Ansicht aktivieren
+4. Register in der fokussierten Ansicht aktivieren
+5. Register in der fokussierten Ansicht aktivieren
+6. Register in der fokussierten Ansicht aktivieren
+7. Tab in der fokussierten Ansicht aktivieren
+8. Tab in der fokussierten Ansicht aktivieren
+9. Tab in der fokussierten Ansicht aktivieren
+10. Tab in der fokussierten Ansicht aktivieren
+Suche rückwärts (Incrementale Suche)
+Suche vorwärts (Incrementale Suche)
+Makiere allle Treffer (Incrementale Suche)
+</ShortcutKeyName>
+
+
+<TabBar>
+Dieser Ordner wurde ausgeschnitten.
+Dieser Ordner kann nicht kopiert werden.
+Dieser Ordner kann nicht ausgeschnitten werden.
+Dieser Ordner kann nicht gelöscht werden.
+Ein Element kann nicht gelöscht werden.
+In diesem Ordner eingefügt.
+In diesem Ordner einfügen konnte.
+</TabBar>
+
+
+<TabBarDragAndDrop>
+Kopieren nach:
+Verschieben nach:
+Verknüpfung erstellen in:
+Kopieren nach {0}
+Verschieben nach {0}
+Verknüpfung erstellen in {0}
+Dauerhaft löschen
+Tab hier erstellen
+Tab hierhin verschieben
+In neuem Fenster öffnen
+Duplizieren ist nicht erlaubt
+Öffnen Sie die Tabgruppe hier
+</TabBarDragAndDrop>
+
+
+<TabBarMenu>
+Schließen
+Rechte Tabs schließen
+Linke Tabs schließen
+Alle Tabs schließen, außer diesen
+Zur Gruppe hinzufügen
+Neue &amp;Gruppe erstellen …
+Zur Bibliothek hinzufügen
+Neue Bibliothek erstellen …
+Sperren
+Entsperren
+Tabbezeichnung
+Duplizieren
+In neuem Fenster öffnen
+Pfad kopieren
+Aktionen für die aktuelle Ansicht
+Tabverlauf
+Gruppen
+Letzte Tabs
+Letzte Dateien
+Letzter aktiver Tab
+Ordner suchen …
+Alle Tabs schließen, außer aktuellen Tab
+Fenster schließen
+Tabs aus anderen Fenstern hier aufnehmen
+Sortierung der Tabs
+Tabs aus vorherigem Fenster hier wiederherstellen
+Geschlossenen Tab wiederherstellen
+Gruppe schließen
+Alle Tabs, außer dieser Gruppe schließen
+Diese Gruppe im neuen Fenster öffnen
+Alle Tabs schließen
+Synchronisiere die horizontale Position mit der Standartansicht
+</TabBarMenu>
+
+
+<TabBarMenuOrder>
+Name
+Pfad
+Aktiv
+Rückgängig
+</TabBarMenuOrder>
+
+
+<TabBarMenuViewActions>
+Alle auswählen
+Auswahl umkehren
+Verknüpfung erstellen
+In Ordner kopieren …
+In Ordner verschieben …
+Zu Tab kopieren …
+Zu Tab verschieben …
+Verknüpfung im Tab erstellen …
+Aus einem Ordner kopieren …
+Aus einem Ordner ausschneiden …
+Eine Verknüpfung aus einem Ordner erstellen …
+Elemente umbenennen …
+</TabBarMenuViewActions>
+
+
+<TabBarTooltip>
+Schließt diesen Tab.
+Schließt alle Tabs rechts von diesem Tab.
+Schleißt alle Tabs links von diesem Tab.
+Schließt alle Tabs, außer diesen.
+Wählt eine Gruppe, um diesen Tab hinzuzufügen.
+Erstellt eine Gruppe und fügt diesen Tab als Eintrag hinzu.
+Wählt eine Bibliothek, um diesen Tab hinzuzufügen.
+Erstellt eine neue Bibliothek und fügt diesen Tab als Eintrag hinzu.
+Sperrt oder entsperrt diesen Tab.
+Vorübergehende Bezeichnung für diesen Tab.
+Dupliziert diesen Tab und fügt ihn zur Tableiste hinzu.
+Öffnet diesen Tab in einem neuen Fenster.
+Kopiert den Pfad dieses Ordners in die Zwischenablage.
+Menü mit Befehlen für die aktuelle Ordneransicht.
+Schneidet den Ordner (diesen geöffneten Tab) aus und fügt ihn in die Zwischenanlage.
+Kopiert den Ordner (diesen geöffneten Tab) und fügt ihn in die Zwischenanlage.
+Fügt die Daten aus der Zwischenablage in diesen Tab ein.
+Erstellt Verknüpfungen zu den Elementen, die Sie ausgeschnitten oder kopiert haben, in diesem geöffneten Tab.
+Löscht den Ordner (diesen geöffneten Tab).
+Benennt den Ordner (diesen geöffneten Tab) um.
+Zeigt die Eigenschaften von diesem Tab an.
+Verlauf von diesem Tab.
+Aktiviert den Tab, der zuletzt vor dem jetzigen Tab aktiv war.
+Wählt einen Ordner aus, um diesen als Tab zu öffnen.
+Schließt alle, außer den aktiven Tab.
+Schließt dieses Fenster.
+Nimmt alle Tabs aus anderen Windows Explorer Fenstern auf und schließt die anderen Fenster.
+Menü zum Neuorganisieren der Tabreihenfolge.
+Sortiert die Tabs nach dem Namen.
+Sortiert die Tabs nach dem Pfad.
+Sortiert die Tabs nach Aktivität.
+Setzt die Tabordnung wieder zurück.
+Stellt die Tabs im zuletzt geschlossenen Fenster wieder her.
+Öffnet den zuletzt geschlossenen Tab.
+Schließt alle Tabs dieser Gruppe.
+Schließt alle Tabs, die nicht zu dieser Gruppe gehören.
+Öffnet die Tabs dieser Gruppe in einem neuen Fenster.
+Alle Tabs in dieser zusätzlichen Ansicht schließen.
+Synchronisiere die horizontale Position mit der Standardansicht wenn die zusätzliche Ansicht (links) aktiviert ist.
+</TabBarTooltip>
+
+
+<TabBarTooltipViewActions>
+Wählt Dateien und Ordner aus und erstellt eine Verknüpfung in diesem Tab.
+Kehrt Auswahl zwischen ausgewählten Elementen und nicht ausgewählten Elementen um.
+Erzeugt Verknüpfungen zu den ausgewählten Elementen.
+Kopiert die ausgewählten Elemente zu einem anderen Ort.
+Verschiebt die ausgewählten Elemente zu einem anderen Ort.
+Kopiert die ausgewählten Elemente zu einem anderen Tab.
+Verschiebt die ausgewählten Elemente zu einem anderen Tab.
+Erzeugt Verknüpfungen zu den ausgewählten Elementen in einem anderen Tab.
+Wählt Dateien und Ordner aus und kopiert sie zu diesem Tab.
+Wählt Dateien und Ordner aus und verschiebt sie zu diesem Tab.
+Wählt Dateien und Ordner aus und erstellt Verknüpfungen zu ihnen in diesem Tab
+Zeige Umbenennen-Dialog für diesen Ordner
+</TabBarTooltipViewActions>
+
+
+<VersatileBarMenu>
+Einträge hinzufügen
+Gruppe hinzufügen
+Alle Gruppen hinzufügen
+Menü mit Anwendungen hinzufügen
+Hinzufügen von Ordnern &amp;&amp; Dateien …
+Alle Laufwerke hinzufügen
+Trennzeichen
+Icontext
+Beschriftung an/ausschalten
+Symbol über Text
+Symbol vor Text
+Icongröße
+klein
+mittel
+groß
+Riesig
+Einträge sperren
+In aktuellem Tab öffnen
+Beschriftung anzeigen
+Umbenennen
+Von Leiste entfernen
+Gruppe:
+Argumente
+Arbeitsverzeichnis
+Erlaube das Ziehen von Elementen
+Erlaube das Ablegen zu verwandten Elementen
+%Jumbo
+In neuem Tab öffnen
+Im Tab im Hintergrund geöffnet
+Ausführen
+Bearbeiten …
+24 - Klein
+32 - Klein
+Neu erstellen …
+&gt;&gt;&gt;
+Exportieren …
+Plugin Schaltfläche hinzufügen …
+Virtuellen Ordner hinzufügen
+</VersatileBarMenu>
+
+
+<ViewColor>
+Text- und Hintergrundfarbe einstellen …
+</ViewColor>
+
+
+<ViewSync>
+Anzahl der Ansichten zu synchronisieren
+Scroll
+Navigation
+Navigation-Sync wird abgebrochen.
+</ViewSync>
+
+
+<UserInitialization>
+Systemordner
+Benutzerordner
+Laufwerke
+Zusätzliche Ansicht (unten) ein-/ausschalten
+Zusätzliche Ansicht (links) ein-/ausschalten
+Umbenennen …
+</UserInitialization>
+
+
+<!--DATA END-->
+
+</root>
