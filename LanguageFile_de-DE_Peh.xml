@@ -19,10 +19,10 @@
 
 <!--META DATA-->
 <Author>Peh</Author>
-<Revision>15</Revision>
+<Revision>16</Revision>
 <Locale>de-DE</Locale>
 <Contact>https://github.com/pcr-coding/QTTabBarLanguageFile</Contact>
-<DateModified>2016-03-16 11:49:31</DateModified>
+<DateModified>2016-04-20 16:57:29</DateModified>
 <EditorVersion>1.0.0.5</EditorVersion>
 
 <!--DATA START-->
@@ -518,7 +518,7 @@ Symbolleisten automatisch &amp;ausblenden
 Symbolleiste automatisch &amp;ausblenden
 Tasten&amp;kombinationen …
 &amp;Ordneroptionen …
-&amp;QTTabBar Optionen …
+&amp;QTTabBar Einstellungen …
 &amp;Symbolleiste anpassen …
 &amp;Zweige
 Zum &amp;Anwendungsmenü hinzufügen: 
@@ -621,15 +621,15 @@ Fenster[[| ]]
 
 
 <Option>
-QTTabBar Optionen
+QTTabBar Einstellungen
 N/A
 Standard
 Auf {0} kann nicht zugegriffen werden. Möchten Sie fortfahren?
 Pfad nicht erreichbar
 Einstellungen zurücksetzen
 Farbe wählen …
-Symbol auswählen …
-Symbol entfernen
+Symbol …
+Symbol entf.
 {links, oben, rechts, unten} =
 </Option>
 
@@ -682,7 +682,7 @@ Windows XP
 Standard (.NET)
 Windows 8
 Skin-Grafiken herunterla&amp;den …
-Anpassung (links, rechts)
+Abstand (links, rechts)
 Tab
 Tab Skin
 Symbolleiste und Menü
@@ -695,7 +695,7 @@ Textfarbe
 Gesperrt-Symbol
 Pfad zur Bilddatei:
 Position Gesperrt-Symbol (x, y)
-Schriftstil des aktiven Tabs
+Schriftschnitt des aktiven Tabs
 Fett
 Kursiv
 Durchgestrichen
@@ -760,7 +760,7 @@ Navigation abgeschlossen
 Navigation fehlgeschlagen
 Fenster wird geöffnet
 Fenster soll geschlossen werden
-Unterordner im Menü
+Unterordner-Menü
 Auch für zusätzlich ausgewählte Elemente
 Neuen Befehl erstellen …
 Aktiver Tab wurde gewechselt
@@ -788,7 +788,7 @@ Ordner suchen und neuen Tab öffnen
 Alle außer dem aktiven Tab schließen
 Alle Sperren
 Zuletzt geschlossenen Tab wiederherstellen
-QTTabBar-Optionen öffnen
+QTTabBar Einstellungen öffnen
 Fenster schließen
 Aktiven Tab duplizieren
 Den zuletzt aktivierten Tab aktivieren
@@ -1050,8 +1050,8 @@ Ort hinzufügen …
 Neue Gruppe
 Löschen
 Trennzeichen
-Start Up-Gruppe
-Tastenkombination für die ausgewählte Gruppe:
+Autostart
+Tastenkombination für diese Gruppe:
 Beim Öffnen einer Gruppe alle Tabs schießen
 Bearbeitungsoptionen für Gruppen im Gruppenmenü anzeigen
 Bearbeitungsoptionen für Gruppeneinträge im Kontextmenü für Gruppen anzeigen
@@ -1064,7 +1064,7 @@ Kursiv
 Rechts
 Links
 Sperren
-Farbe für die ausgewählte Gruppe:
+Farbe für diese Gruppe:
 Farbliche Kennzeichnung der Tabs in einer Gruppe:
 Wolke
 Ausgefüllt
@@ -1077,11 +1077,11 @@ Optionen
 
 
 <OptionHistory>
-Zuletzt geschlossene Tabs
+ Zuletzt geschlossene Tabs
 Anzahl maximal gespeicherter Einträge
 Zum Verlauf hinzufügen beim:
 Beim Abmelden löschen
-Letzte Dateien
+ Letzte Dateien
 Verlauf des Menüs mit Anwendungen speichern
 Argumente des Menüs mit Anwendungen speichern
 EXE-Dateien separat speichern
@@ -1113,7 +1113,7 @@ Bestätigung der Neuverknüpfung
 Standard Tastenkombinationen für mit * markierte Elemente können durch Umschalt + Esc auf Pass-Through eingestellt werden.
 QTTabBar - Ordneransicht
 QTTabBar - Zusätzliche Ansichten und Synchronisation
-QTTabBar - Konzentration
+QTTabBar - Fokus
 </OptionKeyShortcuts>
 
 
@@ -1165,7 +1165,7 @@ Diese Plugins werden auch deinstalliert:\r\n\r\n {0}\r\n\r\nDrücken Sie OK, um 
 
 <OptionPreview>
 Zeige Vorschau-Tooltip
-Dateiinfo unter Vorschaubildchen anzeigen
+Dateiinfo unter Vorschaubildern anzeigen
 Für Netzwerkdateien aktivieren
 Für Dateien in komprimierten Ordnern aktivieren
 Nur bei Drücken der Umschalttaste
@@ -1329,15 +1329,15 @@ Schließen-Schaltfläche, Symbole, Sperren
 
 <OptionToolbar>
 Symbolleisten automatisch ausblenden
-Erweitern, wenn sich Tabs ändern
-Erweitern, wenn das Fenster maximiert wird
+Einblenden, wenn sich Tabs ändern
+Einblenden, wenn das Fenster maximiert wird
 Nicht zeigen, wenn Maus die Leiste berührt
 Verzögerung für automatisches Ausblenden, in ms
 Verzögerung für automatisches Einblenden, in ms
 Tableiste (unten) über Befehlsleiste (vertikal) platzieren
 Nur, wenn lediglich ein Tab in der Leiste ist
-Gib Priorität …
-Synchronisiere die horizontale Position der Tableiste (oben) mit der Standartansicht wenn die zusätzliche Ansicht (links) aktiviert ist.
+Gib Priorität an …
+Synchronisiere die horizontale Position der Tableiste (oben) mit der Standardansicht wenn die zusätzliche Ansicht (links) aktiviert ist.
 </OptionToolbar>
 
 
@@ -1345,7 +1345,7 @@ Synchronisiere die horizontale Position der Tableiste (oben) mit der Standartans
 Webseite http://qttabbar.wikidot.com/ aufrufen
 Strg + Pfeiltaste hoch
 Strg + Pfeiltaste runter
-Ausgewählte Gruppe als Autostart-Gruppe markieren.\r\nAutostart-Gruppen werden beim Öffnen des Fensters geladen.
+Autostart für diese Gruppe ein-/ausschalten.\r\nAutostart-Gruppen werden beim Öffnen des Fensters geladen.
 Für ausgewählte Elemente eine Gruppendatei erstellen.\r\nEine Gruppendatei ist eine Verknüpfung zu Gruppen.
 Zeigt einen Dialogfenster mit der Frage an, ob Sie Einstellungen löschen möchten.
 Wird benutzt, wenn die Breite/Höhe des Vorschaubilds unter 256 Pixel ist.
@@ -1360,7 +1360,7 @@ Durch Verwendung der Kompatibilitätsansicht aus XP/Vista können die Features &
 Dateien und Ordner werden zu dem Tab verschoben oder kopiert per Drag &amp;&amp; Drop (Ziehen und Loslassen)
 Schützt Tab vor Drag &amp;&amp; Drop-Aktionen auf Tab
 Schützt Tab vor Drag &amp;&amp; Drop-Aktionen auf Symbolleiste
-Wechselt den Sperr-Status vom Tab
+Tab sperren/entsperren.
 Ausgewähltes Element entfernen
 Dateien und Ordner wählen
 Benötigt 4 vertikale Pixel.\r\nEs muss von oben nach unten die Zustände, -normal, -scharf, -gedrückt und &apos;Alt-Taste gedrückt&apos; -Bilder enthalten.
@@ -1577,8 +1577,8 @@ Verknüpfung der ausgewählten Dateien in zusätzlicher Ansicht (links) erstelle
 Verknüpfung der ausgewählten Dateien in Standardansicht erstellen
 Synchronisiere Ansichten scrollen (starten/anhalten)
 Synchronisiere Ansichten Navigation (starten/anhalten)
-Synchronisiere die Position anderer Ansichten mit der fokussierten Ansicht
-Synchronisiere die Position der fokussierten Ansicht mit der anderen Ansicht
+Synchronisiere die Orte anderer Ansichten mit der Ansicht die den Fokus hat
+Synchronisiere die Orte der Ansicht die den Fokus hat mit der anderen Ansicht
 Ausgewählte Dateien in die andere Ansicht kopieren (aus der Standardansicht zur bevorzugten Ansicht kopieren, wenn beide Ansichten aktiv sind bzw. aus der zusätzlichen Ansicht zur Standardansicht kopieren)
 Ausgewählte Dateien in die andere Ansicht verschieben (aus der Standardansicht zur bevorzugten Ansicht verschieben, wenn beide Ansichten aktiv sind bzw. aus der zusätzlichen Ansicht zur Standardansicht verschieben)
 Verknüpfung der ausgewählten Dateien in die anderer Ansicht erstellen (aus der Standardansicht zur bevorzugten Ansicht, wenn beide Ansichten aktiv sind bzw. aus der zusätzlichen Ansicht zur Standardansicht)
@@ -1588,20 +1588,20 @@ Aktiven Tab in die Standardansicht verschieben
 Aktiven Tab in die zusätzliche Ansicht (unten) verschieben
 Artiven Tab in die zusätzliche Ansicht (links) verschieben
 Aktiven Tab zur anderen Ansicht veschieben (aus der Standardansicht zur bevorzugten Ansicht verschieben, wenn beide Ansichten aktiv sind bzw. aus der zusätzlichen Ansicht zur Standardansicht verschieben)
-Synchronisiere die Position aller anderen Ansichten mit der fokussierten Ansicht
-1. Tab in der fokussierten Ansicht aktivieren
-2. Tab in der fokussierten Ansicht aktivieren
-3. Tab in der fokussierten Ansicht aktivieren
-4. Register in der fokussierten Ansicht aktivieren
-5. Register in der fokussierten Ansicht aktivieren
-6. Register in der fokussierten Ansicht aktivieren
-7. Tab in der fokussierten Ansicht aktivieren
-8. Tab in der fokussierten Ansicht aktivieren
-9. Tab in der fokussierten Ansicht aktivieren
-10. Tab in der fokussierten Ansicht aktivieren
-Suche rückwärts (Incrementale Suche)
-Suche vorwärts (Incrementale Suche)
-Makiere allle Treffer (Incrementale Suche)
+Synchronisiere die Orte aller anderen Ansichten mit der Ansicht die den Fokus hat
+1. Tab in der Ansicht die den Fokus hat aktivieren
+2. Tab in der Ansicht die den Fokus hat aktivieren
+3. Tab in der Ansicht die den Fokus hat aktivieren
+4. Tab in der Ansicht die den Fokus hat aktivieren
+5. Tab in der Ansicht die den Fokus hat aktivieren
+6. Tab in der Ansicht die den Fokus hat aktivieren
+7. Tab in der Ansicht die den Fokus hat aktivieren
+8. Tab in der Ansicht die den Fokus hat aktivieren
+9. Tab in der Ansicht die den Fokus hat aktivieren
+10. Tab in der Ansicht die den Fokus hat aktivieren
+Markiere vorherigen Treffer (Inkrementelle Suche)
+Markire nächsten Treffer (Inkrementelle Suche)
+Markiere alle Treffer (Inkrementelle Suche)
 </ShortcutKeyName>
 
 
@@ -1664,7 +1664,7 @@ Gruppe schließen
 Alle Tabs, außer dieser Gruppe schließen
 Diese Gruppe im neuen Fenster öffnen
 Alle Tabs schließen
-Synchronisiere die horizontale Position mit der Standartansicht
+Synchronisiere die horizontale Position mit der Standardansicht
 </TabBarMenu>
 
 
@@ -1800,7 +1800,7 @@ Text- und Hintergrundfarbe einstellen …
 
 <ViewSync>
 Anzahl der Ansichten zu synchronisieren
-Scroll
+Bildlauf
 Navigation
 Navigation-Sync wird abgebrochen.
 </ViewSync>
